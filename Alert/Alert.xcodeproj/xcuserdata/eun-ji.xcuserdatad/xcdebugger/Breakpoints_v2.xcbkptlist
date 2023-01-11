@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1D884E84-3FD4-4498-AE7C-CDDC5406BCA1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alert/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F - 425bb0acb3c25cab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alert.ViewController.lampImg.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Alert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eun-ji/Desktop/MakeImage/DoitSwift/Alert/Alert/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F - 90d1b1c65d4bf617"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alert.ViewController.lampImg.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Alert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eun-ji/Desktop/MakeImage/DoitSwift/Alert/Alert/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F - 71efc5a321055b06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alert.ViewController.lampImg.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Alert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eun-ji/Desktop/MakeImage/DoitSwift/Alert/Alert/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F - ad6b07202a08e423"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alert.ViewController.lampImg.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Alert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eun-ji/Desktop/MakeImage/DoitSwift/Alert/Alert/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F - e43f8181ca163254"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alert.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Alert.ViewController"
+                  moduleName = "Alert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eun-ji/Desktop/MakeImage/DoitSwift/Alert/Alert/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "394">
+               </Location>
+               <Location
+                  uuid = "B0F4FFA3-9C7E-499C-AED9-6408B2192C8F - eb2a42847b7a502f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Alert.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Alert.ViewController&gt;"
+                  moduleName = "Alert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eun-ji/Desktop/MakeImage/DoitSwift/Alert/Alert/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "351">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86AFEE47-9E83-46CD-9AA7-D69DCABDF67F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alert/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
